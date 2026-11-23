@@ -1,0 +1,821 @@
+{
+    "t": 1795411960.0890508,
+    "tablas": {
+        "240904": {
+            "34": {
+                "Cintura": 73.0,
+                "Largo": 103.0,
+                "Botapié": 16.0
+            },
+            "36": {
+                "Cintura": 75.0,
+                "Largo": 103.0,
+                "Botapié": 17.0
+            },
+            "38": {
+                "Cintura": 77.5,
+                "Largo": 105.0,
+                "Botapié": 17.0
+            },
+            "40": {
+                "Cintura": 81.0,
+                "Largo": 105.0,
+                "Botapié": 18.0
+            },
+            "42": {
+                "Cintura": 83.0,
+                "Largo": 105.0,
+                "Botapié": 18.0
+            },
+            "44": {
+                "Cintura": 87.0,
+                "Largo": 107.0,
+                "Botapié": 19.0
+            },
+            "46": {
+                "Cintura": 89.0,
+                "Largo": 107.0,
+                "Botapié": 19.0
+            }
+        },
+        "240907": {},
+        "240908": {
+            "34": {
+                "Cintura": 71.0,
+                "Largo": 106.0,
+                "Botapié": 27.0
+            },
+            "36": {
+                "Cintura": 74.0,
+                "Largo": 106.0,
+                "Botapié": 27.0
+            },
+            "38": {
+                "Cintura": 78.0,
+                "Largo": 110.0,
+                "Botapié": 27.0
+            },
+            "40": {
+                "Cintura": 82.0,
+                "Largo": 110.0,
+                "Botapié": 28.0
+            },
+            "42": {
+                "Cintura": 83.0,
+                "Largo": 110.0,
+                "Botapié": 28.0
+            },
+            "44": {
+                "Cintura": 85.0,
+                "Largo": 111.0,
+                "Botapié": 29.0
+            },
+            "46": {
+                "Cintura": 89.0,
+                "Largo": 111.0,
+                "Botapié": 29.0
+            }
+        },
+        "240911": {},
+        "240912": {},
+        "240913": {},
+        "240914": {},
+        "240915": {},
+        "240916": {},
+        "240917": {
+            "34": {
+                "Cintura": 74.0,
+                "Largo": 104.0,
+                "Botapié": 16.5
+            },
+            "36": {
+                "Cintura": 78.0,
+                "Largo": 104.0,
+                "Botapié": 16.5
+            },
+            "38": {
+                "Cintura": 81.0,
+                "Largo": 106.0,
+                "Botapié": 17.0
+            },
+            "40": {
+                "Cintura": 83.0,
+                "Largo": 106.0,
+                "Botapié": 18.0
+            },
+            "42": {
+                "Cintura": 85.0,
+                "Largo": 106.0,
+                "Botapié": 18.0
+            },
+            "44": {
+                "Cintura": 88.0,
+                "Largo": 106.0,
+                "Botapié": 19.0
+            },
+            "46": {
+                "Cintura": 91.0,
+                "Largo": 106.0,
+                "Botapié": 19.0
+            }
+        },
+        "240918": {},
+        "240919": {},
+        "240920": {},
+        "240921": {},
+        "240922": {
+            "34": {
+                "Cintura": 69.5,
+                "Largo": 103.0,
+                "Botapié": 24.0
+            },
+            "36": {
+                "Cintura": 71.5,
+                "Largo": 103.0,
+                "Botapié": 24.0
+            },
+            "38": {
+                "Cintura": 74.5,
+                "Largo": 103.0,
+                "Botapié": 24.0
+            },
+            "40": {
+                "Cintura": 78.0,
+                "Largo": 105.0,
+                "Botapié": 26.0
+            },
+            "42": {
+                "Cintura": 80.0,
+                "Largo": 105.0,
+                "Botapié": 26.0
+            },
+            "44": {
+                "Cintura": 82.0,
+                "Largo": 105.0,
+                "Botapié": 26.0
+            }
+        },
+        "240923": {
+            "34": {
+                "Cintura": 73.5,
+                "Largo": 104.0,
+                "Botapié": 22.0
+            },
+            "36": {
+                "Cintura": 77.5,
+                "Largo": 104.0,
+                "Botapié": 22.0
+            },
+            "38": {
+                "Cintura": 80.5,
+                "Largo": 104.0,
+                "Botapié": 24.0
+            },
+            "40": {
+                "Cintura": 84.0,
+                "Largo": 104.0,
+                "Botapié": 24.0
+            },
+            "42": {
+                "Cintura": 86.0,
+                "Largo": 105.0,
+                "Botapié": 26.0
+            },
+            "44": {
+                "Cintura": 89.5,
+                "Largo": 105.0,
+                "Botapié": 26.0
+            }
+        },
+        "240924": {
+            "34": {
+                "Cintura": 72.0,
+                "Largo": 104.0,
+                "Botapié": 18.0
+            },
+            "36": {
+                "Cintura": 74.0,
+                "Largo": 104.0,
+                "Botapié": 18.0
+            },
+            "38": {
+                "Cintura": 76.0,
+                "Largo": 104.0,
+                "Botapié": 20.0
+            },
+            "40": {
+                "Cintura": 78.0,
+                "Largo": 105.0,
+                "Botapié": 20.0
+            },
+            "42": {
+                "Cintura": 81.0,
+                "Largo": 105.0,
+                "Botapié": 20.0
+            },
+            "44": {
+                "Cintura": 84.5,
+                "Largo": 107.0,
+                "Botapié": 21.0
+            },
+            "46": {
+                "Cintura": 86.5,
+                "Largo": 107.0,
+                "Botapié": 21.0
+            }
+        },
+        "240925": {
+            "34": {
+                "Cintura": 74.0,
+                "Largo": 106.0,
+                "Botapié": 24.0
+            },
+            "36": {
+                "Cintura": 77.0,
+                "Largo": 106.0,
+                "Botapié": 24.0
+            },
+            "38": {
+                "Cintura": 79.0,
+                "Largo": 106.0,
+                "Botapié": 24.0
+            },
+            "40": {
+                "Cintura": 82.0,
+                "Largo": 106.0,
+                "Botapié": 25.0
+            },
+            "42": {
+                "Cintura": 85.5,
+                "Largo": 108.0,
+                "Botapié": 25.0
+            },
+            "44": {
+                "Cintura": 89.0,
+                "Largo": 108.0,
+                "Botapié": 26.0
+            },
+            "46": {
+                "Cintura": 93.0,
+                "Largo": 108.0,
+                "Botapié": 26.0
+            }
+        },
+        "240926": {
+            "34": {
+                "Cintura": 73.0,
+                "Largo": 109.0,
+                "Botapié": 25.0
+            },
+            "36": {
+                "Cintura": 77.0,
+                "Largo": 109.0,
+                "Botapié": 25.0
+            },
+            "38": {
+                "Cintura": 79.0,
+                "Largo": 109.0,
+                "Botapié": 25.0
+            },
+            "40": {
+                "Cintura": 80.5,
+                "Largo": 110.0,
+                "Botapié": 26.0
+            },
+            "42": {
+                "Cintura": 84.0,
+                "Largo": 110.0,
+                "Botapié": 26.0
+            },
+            "44": {
+                "Cintura": 86.5,
+                "Largo": 111.0,
+                "Botapié": 27.0
+            },
+            "46": {
+                "Cintura": 90.0,
+                "Largo": 111.0,
+                "Botapié": 27.0
+            }
+        },
+        "240927": {
+            "34": {
+                "Cintura": 71.0,
+                "Largo": 106.0,
+                "Botapié": 27.0
+            },
+            "36": {
+                "Cintura": 74.0,
+                "Largo": 106.0,
+                "Botapié": 27.0
+            },
+            "38": {
+                "Cintura": 78.0,
+                "Largo": 110.0,
+                "Botapié": 27.0
+            },
+            "40": {
+                "Cintura": 82.0,
+                "Largo": 110.0,
+                "Botapié": 28.0
+            },
+            "42": {
+                "Cintura": 83.0,
+                "Largo": 110.0,
+                "Botapié": 28.0
+            },
+            "44": {
+                "Cintura": 85.0,
+                "Largo": 111.0,
+                "Botapié": 29.0
+            },
+            "46": {
+                "Cintura": 89.0,
+                "Largo": 111.0,
+                "Botapié": 29.0
+            }
+        },
+        "240928": {
+            "34": {
+                "Cintura": 72.5,
+                "Largo": 105.0,
+                "Botapié": 21.0
+            },
+            "36": {
+                "Cintura": 74.5,
+                "Largo": 105.0,
+                "Botapié": 21.0
+            },
+            "38": {
+                "Cintura": 76.0,
+                "Largo": 105.0,
+                "Botapié": 21.0
+            },
+            "40": {
+                "Cintura": 81.0,
+                "Largo": 105.0,
+                "Botapié": 22.0
+            },
+            "42": {
+                "Cintura": 83.0,
+                "Largo": 107.0,
+                "Botapié": 22.0
+            },
+            "44": {
+                "Cintura": 86.0,
+                "Largo": 107.0,
+                "Botapié": 23.0
+            },
+            "46": {
+                "Cintura": 90.0,
+                "Largo": 109.0,
+                "Botapié": 23.0
+            }
+        },
+        "240929": {
+            "34": {
+                "Cintura": 70.0,
+                "Cadera": 77.0,
+                "Largo": 100.0,
+                "Botapié": 16.0
+            },
+            "36": {
+                "Cintura": 71.0,
+                "Cadera": 78.5,
+                "Largo": 100.0,
+                "Botapié": 16.0
+            },
+            "38": {
+                "Cintura": 72.0,
+                "Cadera": 80.5,
+                "Largo": 100.0,
+                "Botapié": 16.0
+            },
+            "40": {
+                "Cintura": 76.0,
+                "Cadera": 86.0,
+                "Largo": 102.0,
+                "Botapié": 17.0
+            },
+            "42": {
+                "Cintura": 79.0,
+                "Cadera": 87.0,
+                "Largo": 102.0,
+                "Botapié": 17.0
+            },
+            "44": {
+                "Cintura": 81.5,
+                "Cadera": 92.0,
+                "Largo": 104.0,
+                "Botapié": 18.0
+            },
+            "46": {
+                "Cintura": 83.5,
+                "Cadera": 93.0,
+                "Largo": 104.0,
+                "Botapié": 18.0
+            }
+        },
+        "240930": {
+            "34": {
+                "Cintura": 70.0,
+                "Cadera": 77.0,
+                "Largo": 101.0,
+                "Botapié": 16.0
+            },
+            "36": {
+                "Cintura": 71.0,
+                "Cadera": 79.5,
+                "Largo": 101.0,
+                "Botapié": 16.0
+            },
+            "38": {
+                "Cintura": 74.0,
+                "Cadera": 83.0,
+                "Largo": 101.0,
+                "Botapié": 16.0
+            },
+            "40": {
+                "Cintura": 77.0,
+                "Cadera": 86.0,
+                "Largo": 102.0,
+                "Botapié": 17.0
+            },
+            "42": {
+                "Cintura": 79.0,
+                "Cadera": 88.0,
+                "Largo": 102.0,
+                "Botapié": 17.0
+            },
+            "44": {
+                "Cintura": 81.0,
+                "Cadera": 91.0,
+                "Largo": 103.0,
+                "Botapié": 18.0
+            },
+            "46": {
+                "Cintura": 84.0,
+                "Cadera": 93.0,
+                "Largo": 103.0,
+                "Botapié": 18.0
+            }
+        },
+        "240931": {
+            "34": {
+                "Cintura": 70.0,
+                "Cadera": 77.0,
+                "Largo": 101.0,
+                "Botapié": 16.0
+            },
+            "36": {
+                "Cintura": 71.0,
+                "Cadera": 79.5,
+                "Largo": 101.0,
+                "Botapié": 16.0
+            },
+            "38": {
+                "Cintura": 72.0,
+                "Cadera": 83.0,
+                "Largo": 101.0,
+                "Botapié": 16.0
+            },
+            "40": {
+                "Cintura": 76.0,
+                "Cadera": 86.0,
+                "Largo": 102.0,
+                "Botapié": 17.0
+            },
+            "42": {
+                "Cintura": 79.0,
+                "Cadera": 88.0,
+                "Largo": 102.0,
+                "Botapié": 17.0
+            },
+            "44": {
+                "Cintura": 81.0,
+                "Cadera": 91.0,
+                "Largo": 103.0,
+                "Botapié": 18.0
+            },
+            "46": {
+                "Cintura": 84.0,
+                "Cadera": 93.0,
+                "Largo": 103.0,
+                "Botapié": 18.0
+            }
+        },
+        "240932": {
+            "34": {
+                "Cintura": 73.0,
+                "Largo": 106.0,
+                "Botapié": 22.0
+            },
+            "36": {
+                "Cintura": 76.5,
+                "Largo": 108.0,
+                "Botapié": 23.5
+            },
+            "38": {
+                "Cintura": 80.0,
+                "Largo": 108.0,
+                "Botapié": 24.0
+            },
+            "40": {
+                "Cintura": 83.0,
+                "Largo": 108.0,
+                "Botapié": 24.0
+            },
+            "42": {
+                "Cintura": 86.0,
+                "Largo": 108.0,
+                "Botapié": 24.0
+            },
+            "44": {
+                "Cintura": 88.0,
+                "Largo": 110.0,
+                "Botapié": 26.0
+            },
+            "46": {
+                "Cintura": 90.0,
+                "Largo": 110.0,
+                "Botapié": 26.0
+            }
+        },
+        "240933": {
+            "34": {
+                "Cintura": 67.5,
+                "Cadera": 76.0,
+                "Largo": 108.0,
+                "Botapié": 24.0
+            },
+            "36": {
+                "Cintura": 70.0,
+                "Cadera": 79.0,
+                "Largo": 109.0,
+                "Botapié": 24.0
+            },
+            "38": {
+                "Cintura": 73.0,
+                "Cadera": 82.0,
+                "Largo": 109.0,
+                "Botapié": 26.0
+            },
+            "40": {
+                "Cintura": 76.0,
+                "Cadera": 85.0,
+                "Largo": 109.0,
+                "Botapié": 26.0
+            },
+            "42": {
+                "Cintura": 78.5,
+                "Cadera": 87.0,
+                "Largo": 110.0,
+                "Botapié": 27.0
+            },
+            "44": {
+                "Cintura": 81.0,
+                "Cadera": 90.0,
+                "Largo": 111.0,
+                "Botapié": 27.0
+            },
+            "46": {
+                "Cintura": 82.5,
+                "Cadera": 93.0,
+                "Largo": 111.0,
+                "Botapié": 27.0
+            }
+        },
+        "240934": {
+            "34": {
+                "Cintura": 68.0,
+                "Cadera": 75.0,
+                "Largo": 97.0,
+                "Botapié": 15.0
+            },
+            "36": {
+                "Cintura": 70.0,
+                "Cadera": 78.0,
+                "Largo": 99.0,
+                "Botapié": 15.0
+            },
+            "38": {
+                "Cintura": 72.0,
+                "Cadera": 79.5,
+                "Largo": 99.0,
+                "Botapié": 16.0
+            },
+            "40": {
+                "Cintura": 74.0,
+                "Cadera": 81.0,
+                "Largo": 99.0,
+                "Botapié": 16.0
+            },
+            "42": {
+                "Cintura": 76.0,
+                "Cadera": 83.0,
+                "Largo": 99.0,
+                "Botapié": 17.0
+            },
+            "44": {
+                "Cintura": 80.0,
+                "Cadera": 87.5,
+                "Largo": 100.0,
+                "Botapié": 17.0
+            },
+            "46": {
+                "Cintura": 84.0,
+                "Cadera": 89.0,
+                "Largo": 100.0,
+                "Botapié": 17.0
+            }
+        },
+        "240935": {
+            "34": {
+                "Cintura": 64.0,
+                "Cadera": 72.0,
+                "Largo": 105.0,
+                "Botapié": 23.0
+            },
+            "36": {
+                "Cintura": 68.0,
+                "Cadera": 76.0,
+                "Largo": 105.0,
+                "Botapié": 24.0
+            },
+            "38": {
+                "Cintura": 71.0,
+                "Cadera": 79.0,
+                "Largo": 105.0,
+                "Botapié": 24.0
+            },
+            "40": {
+                "Cintura": 73.0,
+                "Cadera": 81.0,
+                "Largo": 107.0,
+                "Botapié": 25.0
+            },
+            "42": {
+                "Cintura": 76.0,
+                "Cadera": 84.0,
+                "Largo": 107.0,
+                "Botapié": 25.0
+            },
+            "44": {
+                "Cintura": 80.0,
+                "Cadera": 88.0,
+                "Largo": 107.0,
+                "Botapié": 25.0
+            }
+        },
+        "240936": {
+            "34": {
+                "Cintura": 68.0,
+                "Largo": 109.5,
+                "Botapié": 27.0
+            },
+            "36": {
+                "Cintura": 72.0,
+                "Largo": 109.0,
+                "Botapié": 27.5
+            },
+            "38": {
+                "Cintura": 76.0,
+                "Largo": 110.0,
+                "Botapié": 28.0
+            },
+            "40": {
+                "Cintura": 80.0,
+                "Largo": 111.0,
+                "Botapié": 28.0
+            },
+            "42": {
+                "Cintura": 83.0,
+                "Largo": 111.0,
+                "Botapié": 29.0
+            },
+            "44": {
+                "Cintura": 86.0,
+                "Largo": 111.0,
+                "Botapié": 30.0
+            },
+            "46": {
+                "Cintura": 90.0,
+                "Largo": 111.0,
+                "Botapié": 30.5
+            }
+        },
+        "240938": {
+            "34": {
+                "Cintura": 65.0,
+                "Largo": 103.0,
+                "Botapié": 18.5
+            },
+            "36": {
+                "Cintura": 70.0,
+                "Largo": 103.0,
+                "Botapié": 19.0
+            },
+            "38": {
+                "Cintura": 73.0,
+                "Largo": 105.0,
+                "Botapié": 19.5
+            },
+            "40": {
+                "Cintura": 76.0,
+                "Largo": 105.0,
+                "Botapié": 19.5
+            },
+            "42": {
+                "Cintura": 79.0,
+                "Largo": 106.0,
+                "Botapié": 20.0
+            },
+            "44": {
+                "Cintura": 83.0,
+                "Largo": 107.0,
+                "Botapié": 21.0
+            },
+            "46": {
+                "Cintura": 87.0,
+                "Largo": 108.0,
+                "Botapié": 21.5
+            }
+        },
+        "240939": {
+            "34": {
+                "Cintura": 68.0,
+                "Largo": 105.0,
+                "Botapié": 29.0
+            },
+            "36": {
+                "Cintura": 73.0,
+                "Largo": 105.0,
+                "Botapié": 29.0
+            },
+            "38": {
+                "Cintura": 76.0,
+                "Largo": 107.0,
+                "Botapié": 30.0
+            },
+            "40": {
+                "Cintura": 80.0,
+                "Largo": 107.0,
+                "Botapié": 31.0
+            },
+            "42": {
+                "Cintura": 85.0,
+                "Largo": 109.0,
+                "Botapié": 32.0
+            },
+            "44": {
+                "Cintura": 90.0,
+                "Largo": 109.0,
+                "Botapié": 33.0
+            },
+            "46": {
+                "Cintura": 94.0,
+                "Largo": 109.0,
+                "Botapié": 34.0
+            }
+        },
+        "240941": {},
+        "240943": {},
+        "240944": {
+            "34": {
+                "Cintura": 68.0,
+                "Largo": 105.0,
+                "Botapié": 29.0
+            },
+            "36": {
+                "Cintura": 73.0,
+                "Largo": 105.0,
+                "Botapié": 29.0
+            },
+            "38": {
+                "Cintura": 76.0,
+                "Largo": 107.0,
+                "Botapié": 30.0
+            },
+            "40": {
+                "Cintura": 80.0,
+                "Largo": 107.0,
+                "Botapié": 31.0
+            },
+            "42": {
+                "Cintura": 85.0,
+                "Largo": 109.0,
+                "Botapié": 32.0
+            },
+            "44": {
+                "Cintura": 90.0,
+                "Largo": 109.0,
+                "Botapié": 33.0
+            },
+            "46": {
+                "Cintura": 94.0,
+                "Largo": 109.0,
+                "Botapié": 34.0
+            }
+        }
+    }
+}

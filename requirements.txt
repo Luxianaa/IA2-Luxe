@@ -1,0 +1,8 @@
+# App local de Hilo (CPU). Instalar con: pip install -r requirements.txt
+streamlit>=1.36
+pandas>=2.0
+numpy>=1.24
+torch>=2.2
+transformers>=4.40
+sentence-transformers>=2.7
+scikit-learn>=1.3

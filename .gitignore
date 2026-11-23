@@ -1,0 +1,23 @@
+# Entorno y caché de Python
+.venv/
+__pycache__/
+*.pyc
+
+# Claves de la API de WooCommerce / WordPress: NUNCA subir
+tienda.env
+*.env
+!tienda.env.ejemplo
+
+# Pedidos de la tienda: nombres, teléfonos, direcciones y correos de clientes
+data/pedidos.csv
+data/pedidos*.csv
+
+# Guion de la demo (usa datos de clientes reales)
+GUION_DEMO.md
+
+# Modelo entrenado (~440 MB): supera el límite de GitHub (100 MB por archivo)
+models/*
+!models/modelo_hilo_final/
+models/modelo_hilo_final/*
+!models/modelo_hilo_final/.gitkeep
+*.zip

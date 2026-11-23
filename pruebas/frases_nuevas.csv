@@ -1,0 +1,50 @@
+mensaje_cliente,intenciones
+"Holaa, me pasan su catálogo porfis?",saludo_catalogo
+"Buen día, cómo puedo hacer una compra con ustedes?",saludo_catalogo
+"buenas, quería ver qué modelos de jeans tienen ahora",saludo_catalogo
+"Hola! me recomendó una amiga, qué jeans manejan?",saludo_catalogo
+"hola tienen algun link donde ver todo?",saludo_catalogo
+"Buenas noches, primera vez que compro, cómo funciona?",saludo_catalogo
+"dónde están ubicados? me gustaría ir a verlos",tienda_fisica
+"tienen sucursal en Tarija?",tienda_fisica
+"se puede ir a probar los jeans antes de comprar?",tienda_fisica
+"son de Santa Cruz o de La Paz?",tienda_fisica
+"hay algún showroom en El Alto?",tienda_fisica
+"solo venden por internet?",tienda_fisica
+"El jean me quedó apretado de la cintura, lo puedo cambiar?",cambio_talla
+"pedí 40 pero me queda suelto, cómo hago el cambio?",cambio_talla
+"quiero cambiar el modelo por otro, se puede?",cambio_talla
+"me llegó y no me entra 😭 qué hago?",cambio_talla
+"me quedó larguísimo y grande, quiero una talla menos",cambio_talla
+"Hola, compré la semana pasada y necesito una talla más",cambio_talla
+"en cuántos días me llega a Oruro?",envio_plazos
+"hacen envíos a provincia? estoy en Riberalta",envio_plazos
+"si pido hoy llega antes del viernes?",envio_plazos
+"ya pagué ayer, cuándo lo despachan?",envio_plazos
+"el envío a Cobija es gratis también?",envio_plazos
+"mi pedido aún no llega, ya pasó una semana",envio_plazos
+"el 240921 hay en talla 36?",disponibilidad
+"tienen jeans negros en 44?",disponibilidad
+"todavía queda el mom fit celeste?",disponibilidad
+"este modelo lo tienen en 34?",disponibilidad
+"tienes cargo en talla grande? uso 46",disponibilidad
+"volverá a haber stock del 240904 en 46?",disponibilidad
+"cuánto sale el 240933?",precio
+"qué precio tienen los wide leg?",precio
+"están con descuento todavía?",precio
+"cuánto me saldría el de la foto?",precio
+"a cuánto están los jeans cargo?",precio
+"tienen alguna promo si llevo dos?",precio
+"lo quiero! cómo te paso mis datos?",datos_envio
+"Me lo llevo, me envías el QR para pagar?",datos_envio
+"Nombre: Carla Rojas, Av. Blanco Galindo km 3, Cochabamba, carla.r@gmail.com, talla 38, ref 240933",datos_envio
+"ya me decidí, quiero comprarlo",datos_envio
+"listo, te paso mis datos: Ana Quispe, calle 21 de Calacoto, La Paz",datos_envio
+"cómo pago? por transferencia o QR?",datos_envio
+"Hola, tienen el 240904 en 38 y cuánto cuesta?","disponibilidad,precio"
+"cuánto cuesta y en cuántos días llega a Sucre?","precio,envio_plazos"
+"no tienen tienda? entonces cuánto tarda el envío a Potosí?","tienda_fisica,envio_plazos"
+"Hola, me pasas el catálogo? y tienen tienda física?","saludo_catalogo,tienda_fisica"
+"me queda chico, tienen el mismo en 42?","cambio_talla,disponibilidad"
+"hay en 40? lo quiero, te paso mis datos","disponibilidad,datos_envio"
+"cuánto está el wide leg negro y hay en 36?","precio,disponibilidad"
